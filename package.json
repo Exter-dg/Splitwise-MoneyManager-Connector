@@ -1,0 +1,24 @@
+{
+  "name": "splitwise-moneymanager-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exter-dg/Splitwise-MoneyManager-Connector.git"
+  },
+  "author": "Parth Kapadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exter-dg/Splitwise-MoneyManager-Connector/issues"
+  },
+  "homepage": "https://github.com/Exter-dg/Splitwise-MoneyManager-Connector#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.1",
+    "splitwise": "^1.0.0"
+  }
+}
